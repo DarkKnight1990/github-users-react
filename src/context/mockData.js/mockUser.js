@@ -1,0 +1,38 @@
+export default {
+  login: 'DarkKnight1990',
+  id: 12120734,
+  node_id: 'MDQ6VXNlcjEyMTIwNzM0',
+  avatar_url: 'https://avatars2.githubusercontent.com/u/12120734?v=4',
+  gravatar_id: '',
+  url: 'https://api.github.com/users/DarkKnight1990',
+  html_url: 'https://github.com/DarkKnight1990',
+  followers_url: 'https://api.github.com/users/DarkKnight1990/followers',
+  following_url:
+    'https://api.github.com/users/DarkKnight1990/following{/other_user}',
+  gists_url: 'https://api.github.com/users/DarkKnight1990/gists{/gist_id}',
+  starred_url:
+    'https://api.github.com/users/DarkKnight1990/starred{/owner}{/repo}',
+  subscriptions_url:
+    'https://api.github.com/users/DarkKnight1990/subscriptions',
+  organizations_url: 'https://api.github.com/users/DarkKnight1990/orgs',
+  repos_url: 'https://api.github.com/users/DarkKnight1990/repos',
+  events_url: 'https://api.github.com/users/DarkKnight1990/events{/privacy}',
+  received_events_url:
+    'https://api.github.com/users/DarkKnight1990/received_events',
+  type: 'User',
+  site_admin: false,
+  name: 'Piklu Dey',
+  company: 'Rewardz',
+  blog: '',
+  location: 'Bangalore',
+  email: null,
+  hireable: null,
+  bio: 'Senior Software Engineer',
+  twitter_username: 'pikludey143',
+  public_repos: 16,
+  public_gists: 0,
+  followers: 4,
+  following: 8,
+  created_at: '2015-04-26T08:31:30Z',
+  updated_at: '2020-11-13T10:16:36Z',
+}
